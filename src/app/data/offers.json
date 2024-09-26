@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Tropical Island Escape",
+      "description": "Relax on the tropical island...",
+      "originalPrice": 1000,
+      "discountedPrice": 700,
+      "discountPercentage": 30,
+      "expirationDate": "2024-09-30",
+      "isBestDeal": false
+    },
+    {
+      "id": 2,
+      "name": "Mountain Adventure",
+      "description": "Experience an unforgettable adventure in the majestic mountains.",
+      "originalPrice": 800,
+      "discountedPrice": 640,
+      "discountPercentage": 20,
+      "expirationDate": "2024-10-10",
+      "isBestDeal": false
+    },
+    {
+      "id": 3,
+      "name": "City Break Getaway",
+      "description": "Discover the city's best attractions and nightlife with this deal.",
+      "originalPrice": 500,
+      "discountedPrice": 425,
+      "discountPercentage": 15,
+      "expirationDate": "2024-11-01",
+      "isBestDeal": true
+    },
+    {
+        "id": 4,
+        "name": "City need something",
+        "description": "Discover the city this deal.",
+        "originalPrice": 800,
+        "discountedPrice": 625,
+        "discountPercentage": 15,
+        "expirationDate": "2024-11-01",
+        "isBestDeal": false
+      },
+      {
+        "id": 5,
+        "name": "Getaway",
+        "description": "nightlife with this deal.",
+        "originalPrice": 900,
+        "discountedPrice": 725,
+        "discountPercentage": 15,
+        "expirationDate": "2024-11-01",
+        "isBestDeal": false
+      },
+      {
+        "id": 6,
+        "name": "Break Getaway",
+        "description": " attractions and nightlife with this deal.",
+        "originalPrice": 1000,
+        "discountedPrice": 825,
+        "discountPercentage": 15,
+        "expirationDate": "2024-11-01",
+        "isBestDeal": false
+      }
+  ]
+  
